@@ -1,6 +1,6 @@
 <h1 align="center">Namaste🙏, I'm Pragyan</h1>
 <h3 align="center">A passionate developer and network engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55.gif?h=1f11087ec688ad944871296a823a630dv">
+<img align="right" alt="coding" width="400" src="https://digoxxin.com/images/background.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyanpy&label=Profile%20views&color=0e75b6&style=flat" alt="pragyanpy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pragyantrivedi_" target="blank"><img src="https://img.shields.io/twitter/follow/pragyantrivedi_?logo=twitter&style=for-the-badge" alt="pragyantrivedi_" /></a> </p>
