@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 # Hello World!, I'm Pragyan, an Indian Developer 👋🏼:
 🛜 currently working on my own [webpage](https://shop.digoxxin.com)<br>👨🏼‍🎓 studying media based computer science at Institute of Management Studies<br>👨🏼‍💻 working as a developer since 2021 <br>🎬 just started out with my youtube channel <i>mepragyanhu</i>
 
